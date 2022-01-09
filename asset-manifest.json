@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/incaendo-app/static/css/main.d61ddccd.chunk.css",
+    "main.js": "/incaendo-app/static/js/main.cd38962c.chunk.js",
+    "main.js.map": "/incaendo-app/static/js/main.cd38962c.chunk.js.map",
+    "runtime-main.js": "/incaendo-app/static/js/runtime-main.bb487465.js",
+    "runtime-main.js.map": "/incaendo-app/static/js/runtime-main.bb487465.js.map",
+    "static/js/2.49cbd399.chunk.js": "/incaendo-app/static/js/2.49cbd399.chunk.js",
+    "static/js/2.49cbd399.chunk.js.map": "/incaendo-app/static/js/2.49cbd399.chunk.js.map",
+    "index.html": "/incaendo-app/index.html",
+    "static/css/main.d61ddccd.chunk.css.map": "/incaendo-app/static/css/main.d61ddccd.chunk.css.map",
+    "static/js/2.49cbd399.chunk.js.LICENSE.txt": "/incaendo-app/static/js/2.49cbd399.chunk.js.LICENSE.txt",
+    "static/media/image-1.4ccd9edd.png": "/incaendo-app/static/media/image-1.4ccd9edd.png",
+    "static/media/image-2.cfdb5686.png": "/incaendo-app/static/media/image-2.cfdb5686.png",
+    "static/media/image-3.fca75262.png": "/incaendo-app/static/media/image-3.fca75262.png",
+    "static/media/logo.6ce24c58.svg": "/incaendo-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb487465.js",
+    "static/js/2.49cbd399.chunk.js",
+    "static/css/main.d61ddccd.chunk.css",
+    "static/js/main.cd38962c.chunk.js"
+  ]
+}
